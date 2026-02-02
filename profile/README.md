@@ -6,7 +6,7 @@
 
 **Tertier the Doguhorse, your modern dogumentation friend.**
 
-CLI-first. Language-agnostic. No-nonsense docs.
+CLI-first. Language-agnostic. Who let the docs out?
 
 </div>
 
