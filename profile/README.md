@@ -12,56 +12,70 @@ CLI-first. Language-agnostic. Who let the docs out?
 
 ---
 
-## What is this?
+## What’s going on here?
 
-This org builds a documentation toolchain that you run from the CLI and get usable docs out the other side. No config rabbit holes. No academic nonsense. Just output.
+This org is building a documentation tool you run from the CLI and it just… gives you docs.
 
-The long-term goal is simple:
-**Any repo → one command → clean, readable documentation.**
+No giant framework.
+No yak shaving.
+No “configure 14 plugins before hello world”.
 
----
+You point it at a repo. It reads the code. It produces structured, readable Dogumentation.
 
-## Philosophy
-
-- Docs should be **generated, not handcrafted**
-- Output should be **structured, predictable, diff-friendly**
-- Tools should work **with your repo**, not force you into a framework
-- Good docs are a **developer experience feature**, not an afterthought
+That’s the whole idea.
 
 ---
 
-## Main projects (soon)
+## What we care about
 
-- **Tertier** — the core engine + CLI
-- **Language adapters** — TypeScript first, others later
-- **Themes & templates** — clean, readable defaults
-- **Examples** — real repos, real outputs
+- Docs should be **easy to generate**
+- Output should be **clean and predictable**
+- Tools should **fit your repo**, not take it over
+- Good documentation is part of good developer experience
+
+We like boring output, sharp tools, and things that run in CI without drama.
 
 ---
 
-## Mascot lore (important)
+## What’s being built
 
-Meet **Doguhorse** — also known as the **Tertier Terrier**.
+Things will show up here as they’re ready, but the rough shape is:
 
-Part deep-sea explorer, part obsessive bookworm, fully committed to diving into your codebase and surfacing with structured, readable Dogumentation.
+- A core CLI that analyzes repositories and produces docs
+- Language support starting with TypeScript
+- Themes and templates that don’t look like a 2009 wiki
+- Example repos so you can see real input → real output
 
-Yes, the pun budget is fully allocated.
+Slowly at first. Then faster.
+
+---
+
+## Meet the mascot
+
+**Doguhorse**
+Also known as the **Tertier Terrier**.
+
+Part nerd. Part deep-sea explorer. Full-time documentation gremlin.
+
+He dives into your codebase and comes back with organized, readable Dogumentation. Probably wearing glasses. Definitely judging your folder structure (lovingly).
 
 ---
 
 ## Contributing
 
-Early days. Things will move fast and break occasionally.
+This is early-stage, so things will change a lot.
 
 When contributions open up:
 
-- Clear problem statements > feature wishlists
-- Repro steps > vibes
-- PRs welcome once structure stabilizes
+- Clear issues are gold
+- Repro steps are better than opinions
+- Small, focused PRs beat giant rewrites
+
+More structure will come as the project stabilizes.
 
 ---
 
-## Legal
+## Not GitHub™
 
-This project is independent and not affiliated with GitHub.
-All trademarks belong to their respective owners.
+This project isn’t affiliated with GitHub.
+We just live here and like the neighborhood.
