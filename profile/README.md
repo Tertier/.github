@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/doguhorse-avatar.png" alt="Doguhorse — The Tertier Terrier" width="220" height="220" />
+<img src="../assets/doguhorse-avatar.png" alt="Doguhorse — The Tertier Terrier" width="220" height="220" />
 
 # Dogumentation
 
