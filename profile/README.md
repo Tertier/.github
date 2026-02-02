@@ -55,7 +55,8 @@ Slowly at first. Then faster.
 **Doguhorse**
 Also known as the **Tertier Terrier**.
 
-Part nerd. Part deep-sea explorer. Full-time documentation gremlin.
+Part deep-sea explorer, part nerd partnered with you.
+Full-time documentation gremlin.
 
 He dives into your codebase and comes back with organized, readable Dogumentation. Probably wearing glasses. Definitely judging your folder structure (lovingly).
 
@@ -78,4 +79,5 @@ More structure will come as the project stabilizes.
 ## Not GitHub™
 
 This project isn’t affiliated with GitHub.
-We just live here and like the neighborhood.
+We just live here, like the neighborhood and enjoy the
+beautiy of [Primer](https://primer.style)
